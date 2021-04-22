@@ -1,0 +1,275 @@
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\Estudios\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\Estudios\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Estudios\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\Sistema Construrama prueba\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\JOHANNA\Sistema Construrama\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\Inventando\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojAssemblyReference.cache
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.cache
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.CopyComplete
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\Lenax\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojAssemblyReference.cache
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.cache
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.CoreCompileInputs.cache
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.CopyComplete
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+E:\INSTALADOR SISTEMA\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\System.Net.Http.xml
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\Admin\Desktop\INSTALADOR SISTEMA\Inventando - Copy\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.config
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.application
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.exe
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Sistema Construrama.pdb
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csprojResolveAssemblyReference.cache
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Almacen.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Cliente.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarAlmacen.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ConsultarFactura.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Factura.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Inicio.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Login.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.Properties.Resources.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoAlmacen.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteEspecificoFactura.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralAlmacen.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralCliente.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.ReporteGeneralFactura.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionAlmacen.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.SeleccionCliente.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema_Construrama.VentanaReportes.resources
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.csproj.GenerateResource.Cache
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.cache
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\RdlCompile.compiled
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.TrustInfo.xml
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.exe.manifest
+C:\Users\USER001\Desktop\New folder (2)\SISTEMA BRYNER\Instalador\Sistema Construrama\Sistema Construrama\obj\Debug\Sistema Construrama.application
